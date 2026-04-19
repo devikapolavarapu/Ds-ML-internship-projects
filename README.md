@@ -24,7 +24,9 @@ This repository contains basic machine learning and data science projects built 
 ## Structure
 
 ml-projects/
+
 ├── traffic_forecasting/
+
 ├── crop_production/
 
 
